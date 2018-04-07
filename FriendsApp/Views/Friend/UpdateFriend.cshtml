@@ -1,0 +1,28 @@
+﻿@model FriendsApp.Models.FriendModel
+@{
+    ViewData["Title"] = "UpdateFriend";
+}
+
+<h2>Update Friend - @Model.Ime</h2>
+@using (Html.BeginForm("UpdateFriend", "Friend"))
+{
+    <div class="form-group">
+        @Html.LabelFor(m => m.Id)
+        @Html.TextBoxFor(m => m.Id, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Id)
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.Ime)
+        @Html.TextBoxFor(m => m.Ime, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Ime)
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.MestoZiveenje)
+        @Html.TextBoxFor(m => m.MestoZiveenje, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.MestoZiveenje)
+    </div>
+
+    <button type="submit">Update</button> 
+    @Html.ActionLink("Back", "ShowFriends")
+}
+

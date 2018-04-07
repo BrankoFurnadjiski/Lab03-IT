@@ -1,0 +1,11 @@
+c:\users\branko\source\repos\FriendsApp\FriendsApp\bin\Debug\netcoreapp2.0\FriendsApp.deps.json
+c:\users\branko\source\repos\FriendsApp\FriendsApp\bin\Debug\netcoreapp2.0\FriendsApp.runtimeconfig.json
+c:\users\branko\source\repos\FriendsApp\FriendsApp\bin\Debug\netcoreapp2.0\FriendsApp.runtimeconfig.dev.json
+c:\users\branko\source\repos\FriendsApp\FriendsApp\bin\Debug\netcoreapp2.0\FriendsApp.dll
+c:\users\branko\source\repos\FriendsApp\FriendsApp\obj\Debug\netcoreapp2.0\FriendsApp.csprojResolveAssemblyReference.cache
+c:\users\branko\source\repos\FriendsApp\FriendsApp\obj\Debug\netcoreapp2.0\FriendsApp.csproj.CoreCompileInputs.cache
+c:\users\branko\source\repos\FriendsApp\FriendsApp\obj\Debug\netcoreapp2.0\FriendsApp.AssemblyInfoInputs.cache
+c:\users\branko\source\repos\FriendsApp\FriendsApp\obj\Debug\netcoreapp2.0\FriendsApp.AssemblyInfo.cs
+c:\users\branko\source\repos\FriendsApp\FriendsApp\bin\Debug\netcoreapp2.0\FriendsApp.pdb
+c:\users\branko\source\repos\FriendsApp\FriendsApp\obj\Debug\netcoreapp2.0\FriendsApp.dll
+c:\users\branko\source\repos\FriendsApp\FriendsApp\obj\Debug\netcoreapp2.0\FriendsApp.pdb
